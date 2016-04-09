@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/bencevans/active-app-watcher/issues"
   },
-  "homepage": "https://github.com/bencevans/active-app-watcher#readme"
+  "homepage": "https://github.com/bencevans/active-app-watcher#readme",
+  "dependencies": {
+    "active-app": "^1.0.0"
+  }
 }
