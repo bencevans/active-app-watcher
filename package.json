@@ -1,0 +1,30 @@
+{
+  "name": "active-app-watcher",
+  "version": "1.0.0",
+  "description": "Event emitting active window/app watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/active-app-watcher.git"
+  },
+  "keywords": [
+    "active",
+    "app",
+    "application",
+    "window",
+    "watch",
+    "monitor",
+    "event",
+    "eventemitter",
+    "x11"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/active-app-watcher/issues"
+  },
+  "homepage": "https://github.com/bencevans/active-app-watcher#readme"
+}
