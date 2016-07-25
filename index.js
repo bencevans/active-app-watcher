@@ -1,5 +1,5 @@
 'use strict'
-const activeApp = require('./')
+const activeApp = require('active-app')
 const EventEmitter = require('events').EventEmitter
 const equal = require('deep-equal')
 
